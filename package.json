@@ -9,7 +9,7 @@
   "author": "Rohan Singh",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "swagger-jsdoc": "^3.5.0",
     "swagger-ui-express": "^4.1.3"
   }
